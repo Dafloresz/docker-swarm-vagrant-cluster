@@ -84,7 +84,7 @@ Instale previamente:
 ## 🚀 Como executar
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone <https://github.com/Dafloresz/docker-swarm-vagrant-cluster>
 cd "Cluster Swarm Local"
 vagrant up
 ```
